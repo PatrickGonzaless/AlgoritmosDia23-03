@@ -1,0 +1,37 @@
+Primeiro passo: Entrar com a idade
+Segundo passo: Entrar com o número de filhos
+Terceiro passo: Entrar com o tempo de empresa, em anos
+Quarto passo: Entrar com o salário do funcionário
+Quito passo: Digita-las e receber as informações:
+
+*IDADE:*
+
+Se o funcionário tiver mais de 60 anos, exibir:
+ "Apresentar o plano de aposentadoria para o funcionário"
+
+Se não,exibir:
+ "Sem o plano de aposentadoria para o funcionário"
+
+*NÚMERO DE FILHOS:*
+
+Se o funcionário não tiver filhos, exibir:
+"Funcionário sem direito ao Auxilio Família"
+
+Se não, exibir:
+ "Funcionário com direito ao Auxilio Família"
+
+*TEMPO DE EMPRESA:*
+
+Se o funcionário tiver mais de 5 anos de empresa, exibir:
+"Funcionário com direito ao abono salarial"
+
+Se não (se tiver menos de 5 anos de empresa), exibir:
+"Funcionário sem direito ao abono salarial"
+
+*Salário do Funcionário:*
+
+Se o funcionário ganhar um salário maior do que 4300 reais, exibir:
+"Funcionário COM direito ao Seguro de Vida e Seguro de Saúde"
+
+Se não (se receber menos que 4300 reias), exibir:
+"Funcionário SEM direito ao Seguro de Vida e Seguro de Saúde"
